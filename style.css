@@ -1,1 +1,153 @@
+.plz {
+font-size: 18px;
+display: flex;
+color: grey;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
 
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+body {
+ background-color: black;
+ color: white;
+ font-family: ;
+}
+p {
+ font-family: monospace;
+}
+a {
+ text-decoration: blink;
+}
+h2 {
+ text-align: center;
+ font-family: serif;
+}
+
+code 
+{
+ color: fuchsia;
+}
+.fa-heart {
+color: #E41656;
+}
+.none {
+display: none;
+}
+
+.ndec {
+text-decoration: blink;
+}
+
+.fa-podcast {
+color: green;
+}
+
+#ipadd, .fa-location-dot {
+ color: #7FCB0B;
+}
+
+#Platform, .fa-linux , .fa-apple , .fa-windows {
+ color: orange;
+}
+#data, .fa-user-circle {
+ color: deepskyblue;
+}
+#model, .fa-phoenix-framework{
+ color: plum;
+}
+#cookie, .fa-cookie-bite {
+ color: #7b68ee;
+}
+#browser {
+ color: gold;
+}
+#web {
+ color: lime;
+}
+#ram, .fa-sd-card {
+ color: darkkhaki;
+}
+#vendor, .fa-truck {
+ color: wheat;
+}
+#height, .fa-text-height{
+ color: rosybrown;
+}
+#width, .fa-text-width{
+ color: steelblue;
+}
+#bit, .fa-atom {
+ color: green;
+}
+#level, .fa-battery-half {
+ color: fuchsia;
+}
+#time, .fa-clock {
+ color: teal;
+}
+#start {
+ background-color: green;
+ color: white;
+}
+#stop {
+  background-color: red;
+  color: white;
+}
+#lang, .fa-language {
+ color: aquamarine;
+}
+#cpu, .fa-memory {
+ color: orchid;
+}
+#network, .fa-wifi{
+ color: #fa8072;
+}
+#rtt, .fa-blog {
+ color: #ADFF2F;
+}
+#generation {
+ color: olive;
+}
+#saver, .fa-database {
+color: pink;
+}
+#downlink, .fa-battle-net {
+ color: chocolate;
+}
+#max, .fa-connectdevelop {
+ color: cornflowerblue;
+}
