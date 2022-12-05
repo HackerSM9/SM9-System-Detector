@@ -1,3 +1,7 @@
+* {
+margin: 0px;
+padding: 0px;
+}
 .plz {
 font-size: 18px;
 display: flex;
