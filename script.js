@@ -2,7 +2,7 @@ document.cookie =
  "Owner: Samarth Magdum";
 
 alert(
- "This website will takes out your Mobile's data."
+ "This website displays your Mobile's data to you."
 );
 
 console.info(
