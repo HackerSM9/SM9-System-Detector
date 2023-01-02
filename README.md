@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/HackerSM9/SM9-system-detector?style=for-the-badge&color=teal">
+  <img src="https://img.shields.io/github/license/HackerSM9/SM9-System-Detector?style=for-the-badge&color=teal">
   <img src="https://img.shields.io/github/stars/HackerSM9/SM9-system-detector?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/HackerSM9/SM9-system-detector?style=for-the-badge">
 </p>
