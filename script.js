@@ -142,9 +142,9 @@ function stop() {
 }
 
 const shareData = {
- title: 'SM9',
+ title: 'SM9 System Detector',
  text: 'SM9 System Detector',
- url: 'https://wdkoze.mimo.run/index.html'
+ url: 'https://HackerSM9.github.io/SM9-system-detector/'
 }
 
 const btn = document
