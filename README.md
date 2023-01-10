@@ -2,7 +2,7 @@
 [![pages-build-deployment](https://github.com/HackerSM9/SM9-System-Detector/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/HackerSM9/SM9-System-Detector/actions/workflows/pages/pages-build-deployment)
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful!&style=for-the-badge&color=410694"><br>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Like!&style=for-the-badge&color=410694"><br>
   <img src="https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/HackerSM9/SM9-System-Detector?style=for-the-badge&color=teal">
   <img src="https://img.shields.io/github/stars/HackerSM9/SM9-system-detector?style=for-the-badge">
